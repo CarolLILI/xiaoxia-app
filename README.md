@@ -138,12 +138,14 @@ flutter build ios --release
 
 ## 📱 应用截图
 
-<p align="center">
-  <img src="screenshots/home.png" width="200" alt="首页">
-  <img src="screenshots/assistant.png" width="200" alt="AI助手">
-  <img src="screenshots/examples.png" width="200" alt="示例页面">
-  <img src="screenshots/about.png" width="200" alt="关于页面">
-</p>
+| 首页 | 我的能力 | 使用示例 | 关于 |
+|------|----------|----------|------|
+| <img src="screenshots/home.png" width="200" alt="首页"> | <img src="screenshots/abilities.png" width="200" alt="我的能力"> | <img src="screenshots/examples.png" width="200" alt="使用示例"> | <img src="screenshots/about.png" width="200" alt="关于"> |
+
+- **首页**：小虾助手 AI 入口、AI 快讯、快捷入口（写代码 / 做分析 / 改文案）
+- **我的能力**：代码开发、AI 绘画、文档处理、翻译助手、健康助手等技能展示
+- **使用示例**：写代码、查资料、做规划等示例演示
+- **关于**：应用简介、版本信息、联系我们、隐私政策
 
 ---
 
